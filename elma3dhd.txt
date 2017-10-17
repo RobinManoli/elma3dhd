@@ -1,0 +1,46 @@
+- take shirts from eol
+- take pics from elma
+- take levels from eol
+
+- make simplified game enigne from text game: quest
+	- info
+		- name: elma rpg 3d HD
+		- author: ribot
+		- year of release: 2017
+	- interface
+		- back and forth in dlg
+		- simplest bike movement ever
+		- real sound when take apple
+		- exit lev asks for take all apples or skip (unless finish lev - you failed to finish)
+		- if finished lev, improve time (founded new style)
+	- world
+		- text based
+		- rooms: warmup, mopolauta, #across
+	- #across
+		- irc/eol - realtime chat
+		- send chatting comes later
+	- warmup room
+		- zyntifoxx has most wrs
+	- flattrack room
+		- zyntifoxx has most wrs
+	- slesk room
+		- elg, elbono
+
+story
+	- chapter 1 - complete all levels
+		- warmup disclosed
+		- meet zyntifoxx dialog:
+			- hi
+			- you new?
+			- you must complete all levels
+			- how? sleskt
+			* drive level
+		- flat track disclosed
+			- hi
+			- you new?
+			- oh, it's you again
+			- you got 16.XX on warm ap? impressive o,o
+			* drive level
+		- slesk lev disclosed
+
+	

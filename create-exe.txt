@@ -1,0 +1,5 @@
+D:\Dropbox\projects\pygames\elma3dhd>pyinstaller --onefile play.py
+
+exe is then in folder: dist
+move exe to root and rename it elmaRPG3DHD.exe
+zip .exe, levels, sprite
