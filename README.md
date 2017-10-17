@@ -1,7 +1,5 @@
-# CopyPasty
-Windows taskbar program that keeps track of clipboard text data.
-
-This working program was made in a day to test programming with C# without having studied or used the language.
+# elma3DHD
+Simplistic RPG game written in Python with pygame. Made in a week.
 
 # Download binary
-https://github.com/RobinManoli/CopyPasty/blob/master/CopyPasty/bin/Debug/CopyPasty.exe
+https://github.com/RobinManoli/elma3dhd/blob/master/elma3dhd.exe
